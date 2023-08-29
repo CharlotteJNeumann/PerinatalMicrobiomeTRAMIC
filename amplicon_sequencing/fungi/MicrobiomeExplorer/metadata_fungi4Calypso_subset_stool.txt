@@ -1,0 +1,54 @@
+sample ID	label	Individual	Include	sample	sampletype	number	group	type	min rupture	birth mode	birth mode2	age	weight pre pregn	weight post pregn	height	BMI pre pregn	BMI pregn	gravida	paritaet	past pregnancy	years since last pregnancy	aborte	vag pH	H pH	SS days	sex infant	Hilfsmittel Spontangeburt	medication during pregnancy	medication for labor induction	medication during birth	medication post partum	Einlauf	Geb verletzung	infant weight in g	infant length in cm	Apgar 1	Apgar 5	Apgar 10	days in hospital
+ID	ID	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F.P3.S	F.P3.S	P3	1	S	S	NA	mother	2mpre	24	sp	sp	32.3	56	66	1.68	19.84126984	23.38435374	2	2	1	NA	0	NA	NA	276	m	none	Ferretab und  Femibion	no	no	Syntocinon	no	Scheidenriss	3290	50	8	9	10	4
+F.P6.S	F.P6.S	P6	1	S	S	NA	mother	2mpre	1674	sp	sp	30.7	58	77	1.69	20.30741221	26.95984034	2	1	1	NA	1	NA	NA	280	f	none	no	no	Elo-Mel Isoton	Syntocinon	no	Dammriss 2. Gradesund Labienriss	3300	49	9	10	10	4
+F.P7.S	F.P7.S	P7	1	S	S	NA	mother	2mpre	NA	sp	sp	27.3	52.5	69	1.58	21.03028361	27.63980131	1	1	0	NA	0	NA	7	282	m	none	no	Propess und  Propess und  Misodel	Buscapina und  Elo-Mel Isoton und  Syntocinon	Syntocinon	no	Schleimhautriss	3790	52	9	10	10	5
+F.P8.S	F.P8.S	P8	1	S	S	NA	mother	2mpre	90	sp	sp	27	74	74	1.65	27.18089991	27.18089991	1	1	0	NA	0	4	6.5	289	m	none	no	Propess	Buscapina und  Elo-Mel Isoton und  Syntocinon und  Oxytocin und  Nalbuphin	no	no	Dammriss 1. Gradesund Scheidenriss	3450	51	9	10	10	2
+F.P9.S	F.P9.S	P9	1	S	S	NA	mother	2mpre	45	sp	sp	34.2	46	59	1.63	17.31341037	22.20633069	3	2	2	NA	1	NA	6.5	281	m	none	Femibion	no	no	Syntocinon	no	Schleimhautschuerfung	3580	51	8	10	10	4
+F.P10.S	F.P10.S	P10	1	S	S	NA	mother	2mpre	0	CS	1CS	44	57	67	1.65	20.93663912	24.6097337	3	3	2	NA	0	0	7.5	271	f	none	no	no	Elo-Mel Isoton und  Cefuroxim und  Na-Citrat	Elo-Mel Isoton und  Piritramid und  Ibuprofen und  Paracetamol und  Oxygerolan	no	no	3280	49	9	9	10	4
+F.P11.S	F.P11.S	P11	1	S	S	NA	mother	2mpre	58	sp	sp	37.8	59	71	1.63	22.20633069	26.72287252	3	3	2	NA	0	0	7	280	m	none	Femibion	Propess	Elo-Mel Isoton und  Ringerloesung und  Buscopan	Syntocinon  	no	Schleimhautschuerfung	3498	54	8	10	10	2
+F.P12.S	F.P12.S	P12	1	S	S	NA	mother	2mpre	142	sp	sp	28.7	62	73	1.7	21.4532872	25.25951557	1	1	0	NA	0	1	6.5	280	m	Vakuum	Euthyrox	Oxytocindauerinfusion  	Syntocinon und  Elo-Mel Isoton und  Gynipral 1/2 Akuttokolyse und  Buscopan	Syntocinon und  NaCl 	NA	EPI mediolateral	3816	53	9	9	10	5
+F.P14.S	F.P14.S	P14	1	S	S	NA	mother	2mpre	NA	CS	2CS	30	53	63	1.7	18.33910035	21.79930796	2	2	1	NA	0	5	6	285	m	none	no	no	Cefuroxim und  Na-Citrat	Syntocinon und  NeoDolpasse	NA	no	3780	53	9	10	10	4
+F.P15.S	F.P15.S	P15	1	S	S	NA	mother	2mpre	19	sp	sp	39.5	56	72	1.66	20.32225287	26.12861083	2	2	1	NA	0	0	1	283	m	none	Symbicort	Propess	Gynipral 1/2 Akuttokolyse  	Syntocinon und  NaCl  	NA	Dammriss 1. Gradesund Scheidenriss	3508	52	9	10	10	5
+F.P16.S	F.P16.S	P16	1	S	S	NA	mother	2mpre	15	sp	sp	37.2	60	78	1.68	21.2585034	27.63605442	2	2	1	NA	0	1	1	284	f	none	Vitamine	no	no	Syntocinon	no	no	3310	50	9	10	10	3
+F.P18.S	F.P18.S	P18	1	S	S	NA	mother	2mpre	49	sp	sp	30.3	59	71	1.73	19.71332153	23.72281065	1	1	0	NA	0	1	1	287	f	none	Ferretab und  Eutyhrox und  Femibion	no	Nalbuphin	no	no	Epi mediolateral	3366	51	9	10	10	1
+F.P21.S	F.P21.S	P21	0	S	S	NA	mother	2mpre	312	CS	2CS	30.1	64	77	1.67	22.94811574	27.60945176	2	2	1	NA	0	0	6.5	286	m	none	Femibion	Ballon	Ringerloesung und  Buscopan und  Paspertin und  Nalbuphin und  Elo-Mel Isoton und  Syntocinon und  Cefuroxim	Elo-Mel Isoton und  NeoDolpasse	no	no	3510	50	9	10	10	5
+F.P22.S	F.P22.S	P22	1	S	S	NA	mother	2mpre	0	CS	1CS	34.2	63	74	1.72	21.29529475	25.01352082	2	2	1	NA	0	7	7.5	274	m	none	Femibion	no	Elo-Mel Isoton und  Cefuroxim und  Na-Citrat	Syntocinon und  NeoDolpasse	no	NA	3850	52	8	8	10	5
+F.P23.S	F.P23.S	P23	1	S	S	NA	mother	2mpre	25	sp	sp	34.3	83.5	97	1.69	29.23567102	33.96239627	2	1	1	NA	1	4.5	5.5	283	f	none	Elevit und  Magnesium	no	Buscapina	Syntocinon	no	Dammriss 2. Gradesund Schleimhautriss	3315	49	9	10	10	4
+F.P24.S	F.P24.S	P24	1	S	S	NA	mother	2mpre	0	CS	1CS	36.5	55.5	64.5	1.65	20.38567493	23.69146006	1	1	0	NA	0	0	7.5	258	m	none	Oleovit	no	Ringerloesung und  Erythrocin und  Glucose und  Na-Citrat	Syntocinon und  Elo-Mel Isoton und  Dostinex und  NeoDolpasse und  Piritramid und  Paracetamol und  Oxygerolan	no	NA	2510	48	9	10	10	4
+F.P25.S	F.P25.S	P25	0	S	S	NA	mother	2mpre	0	CS	1CS	39.3	48	60	1.58	19.22768787	24.03460984	3	2	2	NA	1	0	0	274	f	none	Pregnavit	no	Cefuroxim und  Na-Citrat 	Syntocinon und  Piritramid und  NeoDolpasse und  Paracetamol und  Oxygerolan	no	NA	2930	46	9	10	10	3
+F.P27.S	F.P27.S	P27	1	S	S	NA	mother	2mpre	0	CS	1CS	37.9	65	83	1.63	24.4646016	31.23941436	2	2	1	NA	0	0	0	274	f	none	Vitamine und  Ferretab	no	Elo-Mel Isoton und  Na-Citrat	Elo-Mel Isoton und  Piritramid und  NeoDolpasse und  Paracetamol und  Oxygerolan	no	no	4010	55	9	10	10	4
+F.P28.S	F.P28.S	P28	0	S	S	NA	mother	2mpre	0	CS	1CS	29.5	58	80	1.66	21.04804761	29.03178981	4	4	3	NA	0	NA	NA	270	m	none	Femibion	no	Elo-Mel Isoton und  Cefuroxim und  Na-Citrat	Syntocinon und  Elo-Mel Isoton und  Piritramid und  NeoDolpasse und  Paracetamol und  Oxygerolan	no	no	3180	51	9	10	10	2
+F.P29.S	F.P29.S	P29	0	S	S	NA	mother	2mpre	0	CS	1CS	33	79	95	1.8	24.38271605	29.32098765	2	2	1	NA	0	NA	NA	274	f	none	Ferretab	no	Elo-Mel Isoton und  Cefuroxim	Syntocinon und  Elo-Mel Isoton und  Piritramid und  NeoDolpasse und  Paracetamol und  Oxygerolan	no	no	3760	51	9	9	10	4
+F.P30.S	F.P30.S	P30	0	S	S	NA	mother	2mpre	46	sp	sp	38.6	81	90	1.74	26.75386445	29.72651605	4	3	3	NA	1	7	5	285	m	none	Vitamine	no	Buscapina	Syntocinon und  NeoDolpasse	no	Dammriss 1. Grades	4110	54	7	10	10	1
+F.P31.S	F.P31.S	P31	1	S	S	NA	mother	2mpre	0	CS	1CS	39	97	125	1.62	36.96082914	47.62993446	2	2	1	NA	0	0	NA	277	f	none	Ferretab und  Vitamine und  Folsaeure	no	Elo-Mel Isoton und  Cefuroxim	Pabal und  Elo-Mel Isoton und  NeoDolpasse und  Piritramid und  Paracetamol und  Oxygerolan	no	no	4250	54	8	9	10	4
+F.P32.S	F.P32.S	P32	1	S	S	NA	mother	2mpre	0	CS	1CS	43.5	54	70	1.71	18.46722068	23.93898977	6	5	5	NA	1	0	6	272	f	none	Magnesium und  Ferretab	no	Elo-Mel Isoton und  KEINE ANTIBIOSE	Piritramid und  NeoDolpasse und  Elo-Mel Isoton und  Paracetamol und  Oxygerolan	no	no	3440	50	9	10	10	3
+FTra1.S1	FTra1.S1	Tra1	1	S1	S	1	control	1np	no	no	no	30	59	NA	176	19.04700413	NA	NA	NA	0	0	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra2.S1	FTra2.S1	Tra2	1	S1	S	1	control	1np	no	no	no	30	55	NA	164	20.44913742	NA	NA	NA	0	0	NA	4to4.5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra3.S1	FTra3.S1	Tra3	1	S1	S	1	control	1np	no	no	no	25	55	NA	168	19.48696145	NA	NA	NA	0	0	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra4.S1	FTra4.S1	Tra4	1	S1	S	1	control	1np	no	no	no	32	62	NA	158	24.8357635	NA	NA	NA	0	0	NA	4 to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra5.S1	FTra5.S1	Tra5	1	S1	S	1	control	1np	no	no	no	33	62	NA	179	19.35020755	NA	NA	NA	0	0	NA	4to4.5	6 or 7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra6.S1	FTra6.S1	Tra6	1	S1	S	1	control	1np	no	no	no	33	62	NA	172	20.9572742	NA	NA	NA	0	0	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra7.S1	FTra7.S1	Tra7	1	S1	S	1	control	1np	no	no	no	27	50	NA	164	18.59012493	NA	NA	NA	0	0	NA	4to4.5	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra8.S1	FTra8.S1	Tra8	1	S1	S	1	control	1np	no	no	no	27	63	NA	173	21.0498179	NA	NA	NA	0	0	NA	4	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra9.S1	FTra9.S1	Tra9	1	S1	S	1	control	1np	no	no	no	32	58	NA	169	20.30741221	NA	NA	NA	0	0	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra10.S1	FTra10.S1	Tra10	1	S1	S	1	control	1np	no	no	no	40	58	NA	168	20.54988662	NA	NA	NA	0	0	NA	4to4.5	5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra11.S1	FTra11.S1	Tra11	0	S1	S	1	control	1np	no	no	no	42	68	NA	170	23.52941176	NA	NA	NA	2	2012	NA	5	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra12.S1	FTra12.S1	Tra12	1	S1	S	1	control	1np	no	no	no	35	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4.to4.5	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra13.S1	FTra13.S1	Tra13	1	S1	S	1	control	1np	no	no	no	28	60	NA	174	19.81767737	NA	NA	NA	0	0	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra14.S1	FTra14.S1	Tra14	1	S1	S	1	control	1np	no	no	no	29	59	NA	165	21.67125803	NA	NA	NA	0	0	NA	4to4.5	7or8	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra15.S1	FTra15.S1	Tra15	1	S1	S	1	control	1np	no	no	no	39	77	NA	169	26.95984034	NA	NA	NA	4	2018	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra17.S1	FTra17.S1	Tra17	1	S1	S	1	control	1np	no	no	no	36	85	NA	165	31.22130395	NA	NA	NA	3	2017	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra18.S1	FTra18.S1	Tra18	1	S1	S	1	control	1np	no	no	no	26	84	NA	178	26.51180407	NA	NA	NA	0	0	NA	4to4.5	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra20.S1	FTra20.S1	Tra20	1	S1	S	1	control	1np	no	no	no	31	63	NA	168	22.32142857	NA	NA	NA	2	2015	NA	4to4.5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra21.S1	FTra21.S1	Tra21	1	S1	S	1	control	1np	no	no	no	43	77	NA	168	27.28174603	NA	NA	NA	3	2010	NA	4to4.5	5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra22.S1	FTra22.S1	Tra22	1	S1	S	1	control	1np	no	no	no	35	66	NA	168	23.38435374	NA	NA	NA	2	2014	NA	4to4.5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra23.S1	FTra23.S1	Tra23	1	S1	S	1	control	1np	no	no	no	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6?	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra24.S1	FTra24.S1	Tra24	1	S1	S	1	control	1np	no	no	no	36	44	NA	160	17.1875	NA	NA	NA	0	0	NA	4to4.5	8	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra25.S1	FTra25.S1	Tra25	1	S1	S	1	control	1np	no	no	no	30	NA	NA	NA	NA	NA	NA	NA	0	0	NA	4to4.5	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra26.S1	FTra26.S1	Tra26	1	S1	S	1	control	1np	no	no	no	33	62	NA	167	22.23098713	NA	NA	NA	3	2013	NA	4to4.5	8	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra27.S1	FTra27.S1	Tra27	1	S1	S	1	control	1np	no	no	no	29	65	NA	170	22.49134948	NA	NA	NA	0	0	NA	5to5.5	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra28.S1	FTra28.S1	Tra28	1	S1	S	1	control	1np	no	no	no	27	65	NA	172	21.97133586	NA	NA	NA	0	0	NA	4to4.5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra29.S1	FTra29.S1	Tra29	1	S1	S	1	control	1np	no	no	no	19	60	NA	175	19.59183673	NA	NA	NA	0	0	NA	4to4.5	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra30.S1	FTra30.S1	Tra30	1	S1	S	1	control	1np	no	no	no	42	55	NA	163	20.70081674	NA	NA	NA	0	0	NA	4to4.5	5.5to6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FTra31.S1	FTra31.S1	Tra31	1	S1	S	1	control	1np	no	no	no	28	90	NA	169	31.5115017	NA	NA	NA	0	0	NA	4to4.5	6or7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
