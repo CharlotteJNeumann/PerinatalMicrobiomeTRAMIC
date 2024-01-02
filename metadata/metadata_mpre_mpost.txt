@@ -1,0 +1,31 @@
+Person_code	age at delivery	birthmode	assistive aid (1=Vakuum)	Gravida	Parity	Abortus	Ethnicity	medications during pregnancy	GA_week	GA_day	height	weight pre_pregnancy	weight_delivery	sex_infant	amniorrhexis	days_of_hospital_stay	birth_injuries
+1	32.2	sp	no	1	1	0	kaucasian	Ferretab, Femibion	41	1	164	73	88	male	yes	6	yes
+2	32.7	sp	no	2	2	0	kaucasian	Magnesium, Femibion, Lovenox	40	3	161	58	73	female	yes	4	yes
+3	32.3	sp	no	2	2	0	kaucasian	Ferretab, Femibion	39	3	168	56	66	male	yes	4	yes
+4	33.5	sp	vacuum	1	1	0	kaucasian	Vitamine, Rennie	40	6	168	83	90	female	yes	4	yes
+5	28.5	primCS	no	1	1	0	kaucasian	Femibion	38	6	180	67	83	female	yes	4	no
+6	30.7	sp	no	2	1	1	kaucasian	x	40	0	169	58	77	female	yes	4	yes
+7	27.3	sp	no	1	1	0	kaucasian	x	40	2	158	52.5	69	male	yes	5	yes
+8	27.0	sp	no	1	1	0	kaucasian	x	41	2	165	74	74	male	yes	2	yes
+9	34.2	sp	no	3	2	1	kaucasian	Femibion	40	1	163	46	59	male	yes	4	yes
+10	44.0	primCS	no	3	3	0	kaucasian	x	38	5	165	57	67	female	no	4	no
+11	37.8	sp	no	3	3	0	kaucasian	Femibion	40	0	163	59	71	male	yes	2	yes
+12	28.7	sp	vacuum	1	1	0	kaucasian	Euthyrox	40	0	170	62	73	male	yes	5	yes
+14	30.0	secCS	no	2	2	0	kaucasian	x	40	5	170	53	63	male	yes	4	no
+15	39.5	sp	no	2	2	0	kaucasian	Symbicort b. Bedarf	40	3	166	56	72	male	yes	5	yes
+16	37.2	sp	no	2	2	0	kaucasian	Vitamine	40	4	168	60	78	female	yes	3	no
+18	30.3	sp	no	1	1	0	kaucasian	Ferretab, Eutyhrox, Femibion	41	0	173	59	71	female	yes	1	yes
+19	34.2	primCS	no	2	2	0	kaucasian	Euthyrox, Velnatal, Noraia Zäpfchen	39	0	160	57	65	male	no	4	no
+20	41.8	secCS	no	3	2	0	kaucasian	Magnesium, Sinupret	37	1	163	53	63	male	yes	4	no
+21	30.1	secCS	no	2	2	0	kaucasian	Femibion	40	6	167	64	77	male	yes	5	no
+22	34.2	primCS	no	2	2	0	kaucasian	Femibion	39	1	172	63	74	male	no	5	no
+23	34.3	sp	no	2	1	1	kaucasian	Elevit, Magnesium	40	3	169	83.5	97	female	yes	4	yes
+24	36.5	secCS	no	1	1	0	kaucasian	Oleovit	36	6	165	55.5	64.5	male	no	4	no
+25	39.3	primCS	no	3	2	1	NA	Pregnavit, 	39	1	158	48	60	female	no	3	no
+26	35.6	primCS	no	2	2	0	kaucasian	Ferretab, Magnesium, Euthyrox, Folsäure	38	5	159	53	67	female	no	4	no
+27	37.9	primCS	no	2	2	0	kaucasian	Vitamine, Ferretab	39	1	163	65	83	female	no	4	no
+28	29.5	primCS	no	4	4	0	kaucasian	Femibion	38	4	166	58	80	male	no	2	no
+29	33.0	primCS	no	2	2	0	kaucasian	Ferretab	39	1	180	79	95	female	no	4	no
+30	38.6	sp	no	4	3	1	kaucasian	Vitamine	40	5	174	81	90	male	yes	1	yes
+31	39.0	primCS	no	2	2	0	kaucasian	Ferretab, Vitamin u Folsäure	39	4	162	97	125	female	no	4	no
+32	43.5	primCS	no	6	5	1	kaucasian	Magnesium, Ferretab	38	6	171	54	70	female	no	3	no
